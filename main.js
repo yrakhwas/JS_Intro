@@ -7,11 +7,21 @@
 //     return a+b;
 // }
 
-function args()
-{
-    console.log(arguments);
-}
-args(1,2,3,4);
+
+// let num = parseFloat("10.44");
+// console.log(typeof(num));
+// console.log(num);
+// console.log("Hello from console");
+// console.warn("Warning from console");
+// console.error("Error from console");
+// console.log("Hello from main.js");
+// console.log("Hello from console at the second time");
+// // let a = 10;
+// function args()
+// {
+//     console.log(arguments);
+// }
+// args(1,2,3,4);
 
 // let array = [1, 2, 3, 4, 5, false, "Hi", 10.44];
 // for (let item of array) {
